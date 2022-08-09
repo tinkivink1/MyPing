@@ -1,4 +1,4 @@
 # MyPing
 
-C# program using ICMP protocol. 
+C# program using socket and icmp protocol
 ICMP class include
